@@ -1,0 +1,9 @@
+level 1
+playerSpeed 3
+fireCooldown 0.6
+bulletSpeed 5
+teleport false
+invisibility false
+gold 0
+bulletsFired 0
+killedEnemies 0

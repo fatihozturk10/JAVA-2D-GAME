@@ -1,0 +1,9 @@
+level 13
+playerSpeed 9
+fireCooldown 0.1
+bulletSpeed 15
+teleport false
+invisibility true
+gold 112
+bulletsFired 3053
+killedEnemies 717

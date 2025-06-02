@@ -1,0 +1,9 @@
+level 2
+playerSpeed 10
+fireCooldown 0.3
+bulletSpeed 13
+teleport true
+invisibility true
+gold 9512
+bulletsFired 170
+killedEnemies 27
